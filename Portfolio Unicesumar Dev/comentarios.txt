@@ -1,0 +1,2 @@
+separar arquivos js do html
+https://www.youtube.com/watch?v=CMj2ADN7kOU&ab_channel=QAFox
